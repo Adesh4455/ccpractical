@@ -1,1 +1,1 @@
-# ccpractical
+print("Adesh")
